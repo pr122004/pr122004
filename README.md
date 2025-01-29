@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prajwal Ghule
 - 👀 I’m interested in DSA, Web Development, Machine Learning, Deep Learning.
 - 💞️ I’m looking to collaborate on good Web Development, Deep Learning projects.
-- 📫 Reach me at prajwalghule28@gmail.com
+- 📫 Reach me at prajwalghule28@gmail.com.
 
 
 <!---

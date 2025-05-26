@@ -11,15 +11,38 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" /> 
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />&nbsp;&nbsp;
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />&nbsp;&nbsp;
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />&nbsp;&nbsp;
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />&nbsp;&nbsp;
+  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />&nbsp;&nbsp;
+  <img alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />&nbsp;&nbsp;
+  <img alt="Redux Toolkit" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="40" height="40" style="border-radius:5px" />&nbsp;&nbsp;
+  <img alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" />&nbsp;&nbsp;
+  <img alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" />&nbsp;&nbsp;
+  <img alt="OpenCV" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_logo_white_notext.svg" width="40" height="40" />&nbsp;&nbsp;
+  <img alt="YOLO" src="https://github.com/AlexeyAB/darknet/raw/master/darknet_logo.png" width="40" height="40" />&nbsp;&nbsp;
+  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />&nbsp;&nbsp;
+  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+</p>
+
+---
+
+### 📫 Find me on
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prajwalghule28" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="35" height="35" style="margin-right:10px" />
+  </a>
+  <a href="https://leetcode.com/prajwalghule28" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/leetcode.svg" alt="LeetCode" width="35" height="35" style="margin-right:10px" />
+  </a>
+  <a href="https://www.codechef.com/users/prajwalghule28" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/codechef.svg" alt="CodeChef" width="35" height="35" style="margin-right:10px" />
+  </a>
+  <a href="https://www.hackerrank.com/prajwalghule28" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/hackerrank.svg" alt="HackerRank" width="35" height="35" style="margin-right:10px" />
+  </a>
 </p>
 
 ---
@@ -27,5 +50,5 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pr122004&show_icons=true&theme=radical" alt="Prajwal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pr122004&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>

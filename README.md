@@ -37,13 +37,7 @@
   
   <!-- PyTorch -->
   <img alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" />
-  
-  <!-- OpenCV -->
-  <img alt="OpenCV" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_logo_white_notext.svg" width="40" height="40" />
-  
-  <!-- YOLO -->
-  <img alt="YOLO" src="https://raw.githubusercontent.com/AlexeyAB/darknet/master/build/darknet/x64/darknet_logo.png" width="40" height="40" />
-  
+
   <!-- CSS3 -->
   <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
   

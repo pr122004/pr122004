@@ -32,23 +32,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prajwalghule28" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="35" height="35" style="margin-right:10px" />
+     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" style="margin-right:10px" />
   </a>
-  <a href="https://leetcode.com/prajwalghule28" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/leetcode.svg" alt="LeetCode" width="35" height="35" style="margin-right:10px" />
+  <a href="https://leetcode.com/pr122004" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" height="35" style="margin-right:10px" />
   </a>
-  <a href="https://www.codechef.com/users/prajwalghule28" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/codechef.svg" alt="CodeChef" width="35" height="35" style="margin-right:10px" />
-  </a>
-  <a href="https://www.hackerrank.com/prajwalghule28" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/hackerrank.svg" alt="HackerRank" width="35" height="35" style="margin-right:10px" />
+  <a href="https://www.hackerrank.com/profile/prajwalghule28" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HackerRank-%2300EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" height="35" />
   </a>
 </p>
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pr122004&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>

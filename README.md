@@ -32,11 +32,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwalghule28&show_icons=true&theme=radical" alt="Prajwal's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prajwalghule28&theme=radical&hide_border=false" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pr122004&show_icons=true&theme=radical" alt="Prajwal's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pr122004&theme=radical&hide_border=false" height="165"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalghule28&layout=compact&theme=radical" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr122004&layout=compact&theme=radical" height="120"/>
 </p>
 
 ---

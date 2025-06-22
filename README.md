@@ -49,12 +49,13 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"/>
   </a>
   <a href="https://leetcode.com/pr122004" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40"/>
   </a>
   <a href="https://www.hackerrank.com/profile/prajwalghule28" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" alt="HackerRank" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40"/>
   </a>
   <a href="https://github.com/pr122004" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40"/>
   </a>
 </p>
+
